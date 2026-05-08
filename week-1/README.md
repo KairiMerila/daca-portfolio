@@ -2,7 +2,13 @@
 
 ## Mida ma tegin
 - Uurisin Kliendiandmed tabelit SQL päringutega
-- Leidsin - kliendiandmetest 3150 rida, 9 veergu, peamine leid - kliendiandmed on üldiselt terviklikud ja sobivad analüüsiks, kuid e-mailide puudumine võib piirata turundustegevusi.
+- Leidsin:
+    - kliente kokku 3150 rida
+    - e-maile 2770
+    - puuduvaid e-maile 380
+    - e-mailide duplikaate 130
+    - vanim registreerimine 2020-01-02 ja uusim 2025-02-27
+- Peamine leid - kliendiandmed on üldiselt terviklikud ja sobivad analüüsiks, kuid e-mailide puudumine võib piirata turundustegevusi.
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpid
