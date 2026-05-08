@@ -5,6 +5,8 @@
 - Leidsin:
     - kliente kokku 3150 rida ja 9 veergu
     - e-maile 2770
+    - Linnad - Haapsalu, Jõhvi, Kuressaare, Narva, Paida, Rakvere, Tallinn, Tartu, Viljandi, Võru (54 rida tänu erinevatele formaatidele).
+        Eesnimed on kõigil olemas
     - puuduvaid e-maile 380
     - vanim registreerimine 2020-01-02 ja uusim 2025-02-27
 - Peamine leid - kliendiandmed on üldiselt terviklikud ja sobivad analüüsiks, kuid e-mailide puudumine võib piirata turundustegevusi.
