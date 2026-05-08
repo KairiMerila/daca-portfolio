@@ -3,7 +3,7 @@
 ## Mida ma tegin
 - Uurisin Kliendiandmed tabelit SQL päringutega
 - Leidsin:
-    - kliente kokku 3150 rida
+    - kliente kokku 3150 rida ja 9 veergu
     - e-maile 2770
     - puuduvaid e-maile 380
     - vanim registreerimine 2020-01-02 ja uusim 2025-02-27
