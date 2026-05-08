@@ -2,7 +2,7 @@
 
 ## Mida ma tegin
 - Uurisin Kliendiandmed tabelit SQL päringutega
-- Leidsin - kliendiandmetest 3150 rida, 9 veergu, peamine leid - See tähendab UrbanStyle'ile, et kliendiandmed on üldiselt terviklikud ja sobivad analüüsiks, kuid e-mailide puudumine võib piirata turundustegevusi.
+- Leidsin - kliendiandmetest 3150 rida, 9 veergu, peamine leid - kliendiandmed on üldiselt terviklikud ja sobivad analüüsiks, kuid e-mailide puudumine võib piirata turundustegevusi.
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpid
