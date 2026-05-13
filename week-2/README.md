@@ -1,6 +1,4 @@
-# Nädal 2: SQL Cleaning
-
-# Nädal 1: SQL Cleaning -- UrbanStyle'i andmete uurimine
+# Nädal 2: SQL Cleaning -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
 - Uurisin müügi- ja tooteandmete tabeleid SQL päringutega
