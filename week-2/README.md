@@ -17,8 +17,7 @@ SOOVITUS TOOMASELE: eemaldada duplikaadid
 - SQL cleaing koodide kasutamine
 
 ## Failid
-- `week1_Kliendiandmed_exploration.sql` -- minu SQL päringud
-- `week1_results_screenshot.png` -- tulemuste pilt
+- `week2_myygi-ja_tooteandmed_exploration.sql` -- minu SQL päringud
 
 ## Meeskonna töö
 - [Link meeskonna Data Landscape slaidile] https://docs.google.com/document/d/1iUIhHFb633tp-EM_9FFwXHfRahRdlWpFiM4qXpgY6Do/edit?tab=t.0(https://docs.google.com/presentation/d/1aXbHz_prwYMUp1iP37YYKQh6YgeExWUGKPCPc3-hlUU/edit?slide=id.g3e1805e3309_1_19#slide=id.g3e1805e3309_1_19)
