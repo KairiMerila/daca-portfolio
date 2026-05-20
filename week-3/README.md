@@ -1,23 +1,16 @@
 # Nädal 3: SQL Join'id -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
-- Uurisin müügi- ja tooteandmete tabeleid SQL päringutega
-- Leidsin 4 probleemi:
-    Duplikaadid 4013 veerus ja 5116 reas
-    Puuduv customer_id 1487 väljal
-    8 kuupäeva tulevikus
-
-SUURIM ÜLLATUS: duplikaatide hulk
-                                                                                               
-SOOVITUS TOOMASELE: eemaldada duplikaadid 
-- Peamine leid - kliendiandmed on üldiselt terviklikud ja sobivad analüüsiks, kuid e-mailide puudumine võib piirata turundustegevusi.
-- Osalesin meeskonna andmemaastiku koostamisel
+    ALAÜLESANDE KAART B — Kliendid ilma ostudeta (LEFT JOIN + NULL)
+    roll - Roll B: "Kadunud klientide" tuvastamine
+    ülesanne - LEFT JOIN: millised kliendid pole kunagi midagi ostnud? Koosta Anna jaoks "kadunud klientide" nimekiri koos soovitustega.
+    väljund - SQL päringud (.sql fail) + tulemuste screenshot + "kadunud klientide" raport Annale
 
 ## Peamised õpid
-- SQL cleaing koodide kasutamine
+- SQL Join koodide kasutamine
 
 ## Failid
-- `week2_myygi-ja_tooteandmed_exploration.sql` -- minu SQL päringud
+- `week-3/week3_roll_b_kadunud_kliendid.sql` -- minu SQL päringud
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/1aXbHz_prwYMUp1iP37YYKQh6YgeExWUGKPCPc3-hlUU/edit?slide=id.g3e1805e3309_1_0#slide=id.g3e1805e3309_1_0
+- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/1oSZyKl0YB271pfwPAe21IILeEIEnSs-osVSvAM5A2L0/edit?slide=id.g3e38408f9eb_0_5#slide=id.g3e38408f9eb_0_5
