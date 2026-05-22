@@ -10,8 +10,10 @@ Peamised leiud
 - 599 klienti, kes pole kunagi midagi ostnud
 - “Kadunud” klientidest on kõige enam Tallinnast (231), Tartust (133), Pärnust (70) jne
 - 3150 (kogu kliendi andmebaasist) moodustavad passiivsed kasutajad umbes 19%
+
 Suurim üllatus
 - “Kadunud” kliente on ajavahemikul 2020-01-02 - 2025-02-27
+
 Soovitus Annale
 - E-mail olemas - saada pakkumine nt -15% esimesele ostule + tasuta tarne
 - Konto registreerimisvormi audit.
