@@ -1,4 +1,4 @@
-# Nädal 3: SQL agregatsioonid -- UrbanStyle'i andmete uurimine
+# Nädal 3: SQL Aggregation -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
 ALAÜLESANDE KAART A ja C
