@@ -11,7 +11,7 @@ portfolio/
 # Nädal 6: Visualization_Data
 
 ## Mida ma tegin
-ALAÜLESANDE KAART B ja D
+ALAÜLESANDE KAART A: Tallinna kauplus + Tartu kauplus
 
 ## Peamised õpid
 - Power BI kasutamine
