@@ -1,3 +1,13 @@
+portfolio/
+  week-6/
+    individual/
+      week6_[asukoht]_dashboard_screenshot.png
+      week6_[asukoht]_narrative.md
+      week6_executive_summary.md
+    team/
+      week6_team_combined_view.md
+    README.md
+
 # Nädal 6: Visualization_Data
 
 ## Mida ma tegin
