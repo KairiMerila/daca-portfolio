@@ -17,7 +17,7 @@ ALAÜLESANDE KAART A: Tallinna kauplus + Tartu kauplus
 - Power BI kasutamine
 
 ## Failid
-- `week5_PowerBI_Daschboard.jpg` -- KPI Dashboard Power BI's
+- `urbanstyle_week6_dashboard_KairiMerila.pbix` -- KPI Dashboard Power BI's
 
 - ## AI kasutamine
 [1-2 lauset, kuidas AI aitas sel nädalal]
