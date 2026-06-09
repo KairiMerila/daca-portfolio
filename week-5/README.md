@@ -1,4 +1,4 @@
-# Nädal 5: Visualiseerimine - Power BI
+# Nädal 5: Visualization_Design
 
 ## Mida ma tegin
 ALAÜLESANDE KAART B ja D
