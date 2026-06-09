@@ -10,4 +10,4 @@ ALAÜLESANDE KAART B ja D
 - `week4_roll_a_c_müük_kliendid.sql` -- minu SQL päringud
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/1cFoeW5i1hSBeOK26qFkYzEMcqnNt3PfFbszMdjDYEzw/edit
+- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/15zFRATbCiVEX8vO5tqRciM-NlO0ze_nxJ7jCX3v5Iok/edit
