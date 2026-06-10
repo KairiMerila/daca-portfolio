@@ -25,4 +25,4 @@ Nt: "Kasutasin Claude'i Plotly annotatsiooni koodi genereerimiseks.
 AI pakkus välja viitejoone asetuse, mida ise poleks osanud lisada."
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/15zFRATbCiVEX8vO5tqRciM-NlO0ze_nxJ7jCX3v5Iok/edit
+- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/1z4LPNL1jmZUq7Cw4m29Y-bjUWCAC24PDErt_MBjGw-E/edit?slide=id.g3eab81981a2_0_269#slide=id.g3eab81981a2_0_269
