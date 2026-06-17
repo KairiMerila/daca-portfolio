@@ -4,12 +4,12 @@
 [Roll B]: [Analysis + Visualization]
 
 **Analysis** — RFM kliendisegmenteerimine
-ÜLESANNE: Arvuta iga kliendi kohta Recency, Frequency ja Monetary väärtused.
+  ÜLESANNE: Arvuta iga kliendi kohta Recency, Frequency ja Monetary väärtused.
 Määra RFM skoorid (1-5, kvintiilide alusel) ja loo kliendisegmendid
 (VIP Champions, Loyal, Potential, At Risk, Lost).
 
 **Visualization** (Visualiseerimine ja leiud)
-ÜLESANNE: Loo 3 Plotly diagrammi RFM tulemuste esitamiseks. Koosta lühike
+  ÜLESANNE: Loo 3 Plotly diagrammi RFM tulemuste esitamiseks. Koosta lühike
 äritõlgendus Markole: peamised leiud ja soovitused.
 
 ### Peamised leiud
