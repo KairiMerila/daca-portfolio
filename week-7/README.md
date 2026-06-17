@@ -1,7 +1,7 @@
 ## Nädal 7: Python Pandas — RFM kliendisegmenteerimine
 
 ### Minu roll
-[Roll A/B/C/D]: [Rolli kirjeldus]
+[Roll B]: [Analysis + Visualization]
 
 ### Peamised leiud
 - [Leiu 1]
