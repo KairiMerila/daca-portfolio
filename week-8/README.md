@@ -1,4 +1,4 @@
-## Nädal 8: Python Pandas — RFM kliendisegmenteerimine
+## Nädal 8: Python APIs
 
 ### Minu roll
 [Roll C ja D]: [Analysis + Visualization]
