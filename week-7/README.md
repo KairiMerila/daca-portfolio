@@ -1,8 +1,7 @@
 ## Nädal 7: Python Pandas — RFM kliendisegmenteerimine
 
 ### Minu roll
-[Roll C]: [Analysis + Visualization]
-[Roll D]: [Analysis + Visualization]
+[Roll C ja D]: [Analysis + Visualization]
 
 **Analysis** — RFM kliendisegmenteerimine
 - ÜLESANNE: Arvuta iga kliendi kohta Recency, Frequency ja Monetary väärtused.
