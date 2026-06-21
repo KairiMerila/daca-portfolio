@@ -11,7 +11,7 @@ ALAÜLESANDE KAART A: Tallinna kauplus
 
 - ## AI kasutamine
 [1-2 lauset, kuidas AI aitas sel nädalal]
-Nt: "Kasutasin ChatGBT'd Power BI's vajalikeks toiminguteks kui miskit ise üles ei leidnud piisavalt kiiresti nagu nt viitejooned, teksti väljade lisamine ja et Power BI's ei saagi neid charti sisse teha vaid peab eraldi peale kirjutama/ joonistama. 
+Kasutasin ChatGBT'd Power BI's vajalikeks toiminguteks kui miskit ise üles ei leidnud piisavalt kiiresti nagu nt viitejooned, teksti väljade lisamine ja et Power BI's ei saagi neid charti sisse teha vaid peab eraldi peale kirjutama/ joonistama. 
 
 ## Meeskonna töö
 - [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/1z4LPNL1jmZUq7Cw4m29Y-bjUWCAC24PDErt_MBjGw-E/edit?usp=sharing
