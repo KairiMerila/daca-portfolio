@@ -1,16 +1,16 @@
 ## Nädal 8: Python APIs
 
 ### Minu roll
-[Roll C ja D]: [Analysis + Visualization]
+[Roll A+B]: [API Query + Data Processing]
 
-**Analysis** — RFM kliendisegmenteerimine
-- ÜLESANNE: Arvuta iga kliendi kohta Recency, Frequency ja Monetary väärtused.
-Määra RFM skoorid (1-5, kvintiilide alusel) ja loo kliendisegmendid
-(VIP Champions, Loyal, Potential, At Risk, Lost).
+**API Query** (Andmete pärimine)
+- ÜLESANNE: Loo Python funktsioonid, mis pärivad UrbanStyle OÜ andmed
+Supabase API-st: müügi-, kliendi- ja tooteandmed.
 
-**Visualization** (Visualiseerimine ja leiud)
-- ÜLESANNE: Loo 3 Plotly diagrammi RFM tulemuste esitamiseks. Koosta lühike
-äritõlgendus Markole: peamised leiud ja soovitused.
+**Data Processing** (Andmete töötlemine)
+- ÜLESANNE: Kirjuta transformeerimisfunktsioonid: puhasta andmed,
+arvuta nädalased koondnäitajad ja KPI-d, liida andmestikud.
+Marko tahab nähtavaid numbreid — mitte toorandmeid.
 
 ### Peamised leiud
 - VIP Champions moodustavad vaid 18% klientidest, kuid toovad 43% kogu kliendikäibest, mis näitab selget Pareto efekti. 
