@@ -1,7 +1,7 @@
 ## Nädal 7: Python Pandas — RFM kliendisegmenteerimine
 
 ### Minu roll
-[Roll C ja D]: [Analysis + Visualization]
+Roll C ja D: Analysis + Visualization
 
 **Analysis** — RFM kliendisegmenteerimine
 - ÜLESANNE: Arvuta iga kliendi kohta Recency, Frequency ja Monetary väärtused.
@@ -17,8 +17,7 @@ Määra RFM skoorid (1-5, kvintiilide alusel) ja loo kliendisegmendid
 - Samal ajal viitab suur At Risk segment võimalikule kliendikaole.
 
 ### AI kasutamine
-[1-2 lauset, kuidas AI aitas sel nädalal]
 ChatGPT aitas ära teha teha terve koodi ja vajadusel leida erroritele põhjuseid
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/14yUo9fP38sgrFW8HtT6MgmD8u_6QZwbUqgs9Tzrsc7s/edit?slide=id.g3ede0e925b1_0_316#slide=id.g3ede0e925b1_0_316
+- Link meeskonna slaidile - https://docs.google.com/presentation/d/14yUo9fP38sgrFW8HtT6MgmD8u_6QZwbUqgs9Tzrsc7s/edit?slide=id.g3ede0e925b1_0_316#slide=id.g3ede0e925b1_0_316
