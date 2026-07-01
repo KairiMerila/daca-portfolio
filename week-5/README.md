@@ -1,22 +1,85 @@
-# Nädal 5: Visualization_Design
+## 📌 Nädal 5: Power BI – Dashboard Design
 
-## Mida ma tegin
-ALAÜLESANDE KAART B ja D
+---
 
-Kolm põhinäitajat annavad CEO-le kohese vastuse — kui palju tulu teenisime, kui suur on kliendibaas ja kas viimane kuu kasvas.   
+### 👤 Minu roll
 
-UrbanStyle on teeninud jan 2023 kuni jan 2026 kokku €2M  müügitulu 3K registreeritud kliendiga. Viimaste täielike andmekuude võrdlus (jaan 2025→veebr 2025) näitab -3.66% langust, mis viitab hooajalisele kõikumisele — otsuste tegemiseks tuleks vaadata pikemat trendi.  
+**Roll B + D – Dashboard Design & Data Storytelling**
 
-Müügitulu kasvas stabiilselt 2023. aasta alguse tipptasemeni €170,623 (dets 2024), mis näitab tugevat aastast kasvu. Äriliselt tähendab see, et UrbanStyle on suutnud kliendibaasi ja käivet järjepidevalt kasvatada — detsembri tipud viitavad tugevale hooajalisele (jõulumüügi) efektile.  
+---
 
-Anna, parim kanal on pood, mis tõi 2 278 klienti ja €1,9M tulu. Võrreldes online-kanaliga genereerib pood oluliselt rohkem nii kliente kui ka käivet.  
-**Soovitus**: jätkata investeerimist füüsilise poe tugevustesse, kuid samal ajal otsida võimalusi online-kanali kasvatamiseks, kuna see tõi samuti märkimisväärse käibe (€1,01M) väiksema kliendibaasiga, mis võib viidata kõrgemale tulule kliendi kohta.
+### 📊 Projekti eesmärk
 
-## Peamised õpid
-- Power BI kasutamine
+Luua juhtkonnale (CEO) Power BI dashboard, mis kuvab ettevõtte olulisemad KPI-d ning toetab kiiret ja andmepõhist otsustamist.
 
-## Failid
-- `urbanstyle_week5_dashboard_KairiMerila.pbix` -- KPI Dashboard Power BI's
+---
 
-## Meeskonna töö
-- Link meeskonna slaidile - https://docs.google.com/presentation/d/15zFRATbCiVEX8vO5tqRciM-NlO0ze_nxJ7jCX3v5Iok/edit
+### ✅ Minu panus
+
+- Kujundasin KPI-dashboard'i Power BI-s
+- Valisin juhtkonna jaoks olulisemad mõõdikud
+- Analüüsisin müügi-, kliendi- ja müügikanalite andmeid
+- Koostasin andmeloo (Data Storytelling) koos äriliste soovitustega
+
+---
+
+### 🔍 Peamised leiud
+
+- 💰 UrbanStyle teenis **2023–2026** kokku ligi **2 miljonit eurot müügitulu** ning omab umbes **3000 registreeritud klienti**.
+- 📈 Müügitulu kasvas stabiilselt ning saavutas tipu **170 623 € detsembris 2024**, mis viitab tugevale jõulumüügi mõjule.
+- 🏪 Füüsiline pood oli edukaim müügikanal, teenindades **2 278 klienti** ja teenides ligi **1,9 miljonit eurot käivet**.
+- 🌐 Online-kanal tõi väiksema kliendibaasiga üle **1 miljoni euro käivet**, mis viitab kõrgemale keskmisele ostuväärtusele kliendi kohta.
+- 📉 Viimaste kuude võrdluses oli müük **3,66% languses**, kuid selle põhjal ei saa veel pikaajalisi järeldusi teha, kuna tegemist võib olla hooajalise kõikumisega.
+
+---
+
+### 💼 Äriline soovitus
+
+- Jätkata investeerimist füüsilise poe tugevustesse.
+- Suurendada online-kanali arendamist, kuna sealne keskmine kliendi väärtus võib olla kõrgem.
+- Otsuseid teha pikema perioodi trendide, mitte ühe kuu tulemuste põhjal.
+
+---
+
+### 🛠 Kasutatud tehnoloogiad
+
+- Power BI Desktop
+- DAX mõõdikud
+- KPI Dashboard
+- Data Storytelling
+- Andmete visualiseerimine
+
+---
+
+### 🤖 AI kasutamine
+
+Kasutasin ChatGPT-d, et:
+
+- aidata kujundada dashboard'i ülesehitust;
+- leida sobivaid Power BI lahendusi ja DAX-i näiteid;
+- sõnastada ärilisi järeldusi ning juhtkonnale mõeldud soovitusi.
+
+---
+
+### 🛠 Omandatud oskused
+
+- KPI dashboard'i loomine
+- Power BI visualiseerimine
+- DAX mõõdikud
+- Data Storytelling
+- Juhtimisraportite koostamine
+
+---
+
+### 📁 Failid
+
+- `urbanstyle_week5_dashboard_KairiMerila.pbix` – KPI Dashboard
+
+---
+
+## 👥 Meeskonnatöö
+
+📊 **Meeskonna esitlusslaid:**  
+https://docs.google.com/presentation/d/15zFRATbCiVEX8vO5tqRciM-NlO0ze_nxJ7jCX3v5Iok/edit
+
+---
