@@ -10,7 +10,6 @@ ALAÜLESANDE KAART A: Tallinna kauplus
 - `urbanstyle_week6_dashboard_KairiMerila.pbix` -- UrbanStyle Dashboard
 
 - ## AI kasutamine
-[1-2 lauset, kuidas AI aitas sel nädalal]
 Kasutasin ChatGBT'd Power BI's vajalikeks toiminguteks kui miskit ise üles ei leidnud piisavalt kiiresti nagu nt viitejooned, teksti väljade lisamine ja et Power BI's ei saagi neid charti sisse teha vaid peab eraldi peale kirjutama/ joonistama. 
 
 ## Meeskonna töö
