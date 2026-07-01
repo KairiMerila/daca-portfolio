@@ -1,39 +1,78 @@
-# Nädal 6: Visualization_Data
+## 📌 Nädal 6: Power BI – UrbanStyle Dashboard
 
-## Mida ma tegin
-ALAÜLESANDE KAART A: Tallinna kauplus
+---
 
-## Peamised õpid
-- Power BI kasutama õppimine
+### 👤 Minu roll
 
-## Failid
-- `urbanstyle_week6_dashboard_KairiMerila.pbix` -- UrbanStyle Dashboard
+**Roll A – Tallinna kaupluse dashboard**
 
-- ## AI kasutamine
-Kasutasin ChatGBT'd Power BI's vajalikeks toiminguteks kui miskit ise üles ei leidnud piisavalt kiiresti nagu nt viitejooned, teksti väljade lisamine ja et Power BI's ei saagi neid charti sisse teha vaid peab eraldi peale kirjutama/ joonistama. 
+---
 
-## Meeskonna töö
-- Link meeskonna slaidile - https://docs.google.com/presentation/d/1z4LPNL1jmZUq7Cw4m29Y-bjUWCAC24PDErt_MBjGw-E/edit?usp=sharing
+### 📊 Projekti eesmärk
 
+Luua **Power BI dashboard**, mis annab ülevaate Tallinna kaupluse müügitulemustest ning toetab UrbanStyle juhtkonda andmepõhiste otsuste tegemisel.
 
-- ## UrbanStyle Dashboard
- 
-### Peamised leiud
-- Tallinn tõi sisse 1,09 miljonit eurot käivet, mis teeb sellest ettevõtte tugevaima kaupluse ja hea eeskuju teistele müügikohtadele.
-- Püksid ja jakid moodustavad üle poole kategooriamüügist, mistõttu nende toodete saadavuse tagamine mõjutab otseselt käivet.
-- Q4 kampaania tõi müügitipu 64 000 euroni (+35%), mis näitab, et hooajalised kampaaniad töötavad Tallinnas väga hästi.
- 
-### Kasutatud tehnoloogiad
-- Power BI Desktop + Power BI Service
-- Supabase (PostgreSQL andmebaas)
-- DAX mõõdikud (YoY Growth, Revenue Category)
- 
-### Dashboard'i lugu
-- 📈 Tallinn tõi sisse 1,09 miljonit eurot käivet, mis teeb sellest ettevõtte tugevaima kaupluse ja hea eeskuju teistele müügikohtadele.
-- 🏆 Püksid ja jakid moodustavad üle poole kategooriamüügist, mistõttu nende toodete saadavuse tagamine mõjutab otseselt käivet.
-- 🎯 Q4 kampaania tõi müügitipu 64 000 euroni (+35%), mis näitab, et hooajalised kampaaniad töötavad Tallinnas väga hästi.
-- 👥 46% klientidest ei ole seotud ühegi lojaalsustasemega, mistõttu on olemas märkimisväärne potentsiaal suurendada klientide püsivust ja sihitud turunduse efektiivsust.
-- 🚀 Tallinna edukat kategooriavalikut ja kampaaniamudelit võiks rakendada ka teistes kauplustes, et kasvatada kogu ettevõtte müüki.
-- Setup: UrbanStyle on kasvav moebränd kolme kauplusega.
-- Data: 3 aasta müügiandmed näitavad selget kasvu, mida veab Denim tooteseeria.
-- Action: Investeeri Denim tooteliini ja auditeeri Tartu kauplust.
+---
+
+### ✅ Minu panus
+
+- Lõin Tallinna kaupluse Power BI dashboard'i
+- Kujundasin KPI-kaardid ja visualiseeringud
+- Kasutasin DAX mõõdikuid (YoY Growth, Revenue Category)
+- Analüüsisin müügi-, toote- ja kliendiandmeid
+- Koostasin juhtkonnale peamised ärilised järeldused
+
+---
+
+### 🔍 Peamised leiud
+
+- 💰 **Tallinn teenis 1,09 miljonit eurot käivet**, olles ettevõtte tugevaim kauplus.
+- 👖 **Püksid ja jakid moodustavad üle poole kategooriamüügist**, mistõttu nende toodete saadavus mõjutab otseselt käivet.
+- 📈 **Q4 kampaania kasvatas müügi 64 000 euroni (+35%)**, mis kinnitab hooajaliste kampaaniate edukust.
+- 👥 **46% klientidest ei kuulu lojaalsusprogrammi**, mis annab võimaluse kasvatada kordusoste ja sihitud turunduse tulemuslikkust.
+- 🚀 Tallinna edukat kategooria- ja kampaaniastrateegiat võiks rakendada ka teistes kauplustes.
+
+---
+
+### 🛠 Kasutatud tehnoloogiad
+
+- Power BI Desktop
+- Power BI Service
+- Supabase (PostgreSQL)
+- DAX mõõdikud
+- Andmete visualiseerimine
+
+---
+
+### 🤖 AI kasutamine
+
+Kasutasin ChatGPT-d, et:
+
+- leida kiiremini Power BI funktsioone ja seadistusi;
+- lahendada DAX-i ja visualiseerimisega seotud küsimusi;
+- aidata kujundada dashboard'i ning sõnastada peamised järeldused.
+
+---
+
+### 🛠 Omandatud oskused
+
+- Power BI dashboard'ide loomine
+- DAX mõõdikute koostamine
+- KPI visualiseerimine
+- Ärilugude (Data Storytelling) koostamine
+- Juhtimisdashboard'i disain
+
+---
+
+### 📁 Failid
+
+- `urbanstyle_week6_dashboard_KairiMerila.pbix` – UrbanStyle Power BI Dashboard
+
+---
+
+## 👥 Meeskonnatöö
+
+📊 **Meeskonna esitlusslaid:**  
+https://docs.google.com/presentation/d/1z4LPNL1jmZUq7Cw4m29Y-bjUWCAC24PDErt_MBjGw-E/edit?usp=sharing
+
+---
