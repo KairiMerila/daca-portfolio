@@ -1,28 +1,83 @@
-# Nädal 3: SQL Join'id -- UrbanStyle'i andmete uurimine
+## 📌 Nädal 3: SQL JOIN-id – Kadunud klientide analüüs
 
-## Mida ma tegin
-ALAÜLESANDE KAART B — Kliendid ilma ostudeta (LEFT JOIN + NULL)
- - roll - Roll B: "Kadunud klientide" tuvastamine
- - ülesanne - LEFT JOIN: millised kliendid pole kunagi midagi ostnud? Koosta Anna jaoks "kadunud klientide" nimekiri koos soovitustega.
- - väljund - SQL päringud (.sql fail) + tulemuste screenshot + "kadunud klientide" raport Annale
+---
 
-Peamised leiud
-- 599 klienti, kes pole kunagi midagi ostnud
-- “Kadunud” klientidest on kõige enam Tallinnast (231), Tartust (133), Pärnust (70) jne
-- 3150 (kogu kliendi andmebaasist) moodustavad passiivsed kasutajad umbes 19%
+### 👤 Minu roll
 
-Suurim üllatus
-- “Kadunud” kliente on ajavahemikul 2020-01-02 - 2025-02-27
+**Roll B – "Kadunud klientide" tuvastamine**
 
-Soovitus Annale
-- E-mail olemas - saada pakkumine nt -15% esimesele ostule + tasuta tarne
-- Konto registreerimisvormi audit.
+---
 
-## Peamised õpid
-- SQL Join koodide kasutamine
+### 📊 Projekti eesmärk
 
-## Failid
-- `week-3/week3_roll_b_kadunud_kliendid.sql` -- minu SQL päringud
+Leida **LEFT JOIN** abil kliendid, kes on registreerunud, kuid pole kunagi ostu sooritanud, ning koostada turundusjuhile soovitused nende aktiveerimiseks.
 
-## Meeskonna töö
-- Link meeskonna slaidile - https://docs.google.com/presentation/d/1oSZyKl0YB271pfwPAe21IILeEIEnSs-osVSvAM5A2L0/edit?slide=id.g3e1805e3309_1_5#slide=id.g3e1805e3309_1_5
+---
+
+### ✅ Minu panus
+
+- Kirjutasin **LEFT JOIN** SQL päringu passiivsete klientide leidmiseks
+- Kasutasin `NULL` kontrolli ostudeta klientide tuvastamiseks
+- Analüüsisin klientide geograafilist jaotust
+- Koostasin raporti koos äriliste soovitustega
+
+---
+
+### 🔍 Peamised leiud
+
+- 👥 Leidsin **599 klienti**, kes pole kunagi ostu sooritanud.
+- 📍 Kõige rohkem passiivseid kliente oli **Tallinnas (231)**, **Tartus (133)** ja **Pärnus (70)**.
+- 📊 Passiivsed kliendid moodustavad ligikaudu **19% kogu 3150-liikmelisest kliendibaasist**.
+- 📅 Ostudeta kliente leidus kogu vaadeldud perioodi jooksul (**2020–2025**).
+
+---
+
+### 💼 Äriline soovitus
+
+- 📧 Saata ostuta klientidele personaalne kampaania, näiteks **−15% soodustus esimesele ostule** koos tasuta tarnega.
+- 📝 Analüüsida registreerimisprotsessi ning selgitada välja, miks osa kasutajaid pärast konto loomist ostuni ei jõua.
+
+---
+
+### 🛠 Kasutatud tehnoloogiad
+
+- PostgreSQL
+- LEFT JOIN
+- NULL väärtuste analüüs
+- SQL päringud
+- Andmete analüüs
+
+---
+
+### 🤖 AI kasutamine
+
+Kasutasin ChatGPT-d, et:
+
+- kontrollida SQL JOIN päringute loogikat;
+- aidata lahendada vigasid;
+- sõnastada ärilised järeldused ja soovitused.
+
+---
+
+### 🛠 Omandatud oskused
+
+- SQL JOIN-id
+- LEFT JOIN kasutamine
+- NULL väärtuste analüüs
+- Kliendisegmentide leidmine
+- Andmepõhiste soovituste koostamine
+
+---
+
+### 📁 Failid
+
+- `week-3/week3_roll_b_kadunud_kliendid.sql` – SQL päring kadunud klientide analüüsimiseks
+
+---
+
+## 👥 Meeskonnatöö
+
+📊 **Meeskonna esitlusslaid:**  
+https://docs.google.com/presentation/d/1oSZyKl0YB271pfwPAe21IILeEIEnSs-osVSvAM5A2L0/edit?slide=id.g3e1805e3309_1_5#slide=id.g3e1805e3309_1_5
+
+---
