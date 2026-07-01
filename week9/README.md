@@ -1,40 +1,13 @@
-B+C (Kvaliteet — tehniline + pehmed oskused)
-## Nädal 8: Python APIs
+## Nädal 9: Värbamisjuhend (Grupitöö)
 
 ### Minu roll
 [Roll B+C]: [Kvaliteet — tehniline + pehmed oskused]
 
-### **Roll A - API Query** (Andmete pärimine)  
-**ÜLESANNE**: Loo Python funktsioonid, mis pärivad UrbanStyle OÜ andmed
-Supabase API-st: müügi-, kliendi- ja tooteandmed.
-
-- Lõin Pythoni faili data_fetcher.py  
-- Ühendasin programmi Supabase andmebaasiga .env faili abil  
-- Lõin 3 funktsiooni:  
-  - fetch_sales()
-  - fetch_customers()
-  - fetch_products() 
-- Lisasin pagination'i ja veakäsitluse
-- Tulemuseks on pandas DataFrame'id, mida saab kasutada edasiseks analüüsiks  
-- Päringu tulemused:
-  - 📊 Sales: 5137 rida
-  - 👥 Customers: 3150 rida
-  - 📦 Products: 362 rida  
+### **Roll B - Tehniline intervjueerija vaade (Technical Interviewer)
     
-### **Roll B - Data Processing** (Andmete töötlemine)  
-**ÜLESANNE**: Kirjuta transformeerimisfunktsioonid: puhasta andmed,
-arvuta nädalased koondnäitajad ja KPI-d, liida andmestikud.
-Marko tahab nähtavaid numbreid — mitte toorandmeid.  
+### **Roll C - Personalijuhi vaade (People Manager) 
 
-- Andmete puhastamine (duplikaadid, NULL-id, kuupäevad)
-- Nädalaste koond näitajate arvutamine
-- KPI-de arvutamine
-- Müügi- ja kliendiandmete liitmine
-- Päringu tulemused:  
-  - 📊 Puhastatud andmestik: 3 müügikirjet (1 duplikaat eemaldati)
-  - 💰 Kogukäive: 450 €
-  - 👥 Unikaalseid kliente: 3
-  - 🛒 Keskmine tellimuse väärtus: 150 €
+- Panus: [1-2 lauset oma panuse kohta]
 
 ### AI kasutamine
 [1-2 lauset, kuidas AI aitas sel nädalal]
