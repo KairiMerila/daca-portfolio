@@ -20,4 +20,4 @@ SOOVITUS TOOMASELE: eemaldada duplikaadid
 - `week2_myygi-ja_tooteandmed_exploration.sql` -- minu SQL päringud
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/1aXbHz_prwYMUp1iP37YYKQh6YgeExWUGKPCPc3-hlUU/edit?slide=id.g3e1805e3309_1_0#slide=id.g3e1805e3309_1_0
+- Link meeskonna slaidile - https://docs.google.com/presentation/d/1aXbHz_prwYMUp1iP37YYKQh6YgeExWUGKPCPc3-hlUU/edit?slide=id.g3e1805e3309_1_0#slide=id.g3e1805e3309_1_0
