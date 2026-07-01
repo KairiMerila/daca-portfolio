@@ -1,16 +1,58 @@
-## Nädal 9: Värbamisjuhend (Grupitöö)
+## 📌 Nädal 9: Värbamisjuhend (Grupitöö)
 
-### Minu roll
-Roll B+C: Kvaliteet — tehniline + pehmed oskused
+---
 
-### **Roll B - Tehniline intervjueerija vaade (Technical Interviewer)
-    
-### **Roll C - Personalijuhi vaade (People Manager) 
+### 👤 Minu roll
 
-- Panus: Hindasin meeskonnakaaslase GitHubi portfooliot tehnilisest ja personalijuhi vaatenurgast ning koostasin konstruktiivse tagasiside koos värbamissoovitusega.
+**Roll B + C – Kvaliteedi hindamine (tehnilised ja pehmed oskused)**
 
-### AI kasutamine
-Kasutasin tehisintellekti, et koostada personalijuhi vaatenurgast struktureeritud tagasiside ning sõnastada hinnang professionaalses vormis.
+#### 💻 Roll B – Tehniline intervjueerija (Technical Interviewer)
 
-## Meeskonna töö
-- Link meeskonna slaidile - https://docs.google.com/presentation/d/17RQHX6iQBZbFvak3viMvOZqHIvKsT4_gAVHKQhqA32U/edit?usp=sharing
+- Hindasin GitHubi portfoolio tehnilist kvaliteeti.
+- Analüüsisin koodi loetavust, struktuuri ja dokumentatsiooni.
+- Hindasin SQL-i, Pythoni, GitHubi ning visualiseerimistööriistade kasutamist.
+- Koostasin tehnilise peer review ja värbamissoovituse.
+
+#### 🤝 Roll C – Personalijuht (People Manager)
+
+- Hindasin suhtlemisoskust, probleemilahendusvõimet, meeskonnatööd ja kultuurilist sobivust.
+- Koostasin personalijuhi vaates peer review ning värbamissoovituse.
+
+---
+
+### ✅ Minu panus
+
+- Tehniline ja personalijuhi vaates portfoolio hindamine.
+- Kahe kirjaliku peer review koostamine.
+- Tulemuste esitlemine meeskonnale.
+- Konstruktiivsete arengusoovituste ja värbamissoovituse koostamine.
+
+---
+
+### 🤖 AI kasutamine
+
+Kasutasin tehisintellekti, et:
+
+- struktureerida tehniline ja personalijuhi tagasiside;
+- sõnastada professionaalne peer review;
+- koostada lühike esitlustekst;
+- luua visuaalsed kokkuvõtted esitluse jaoks.
+
+---
+
+### 🛠 Omandatud oskused
+
+- GitHubi portfoolio hindamine
+- Tehniline intervjuu ja kandidaatide hindamine
+- Konstruktiivse tagasiside andmine
+- Pehmete oskuste hindamine
+- Värbamissoovituse põhjendamine
+
+---
+
+## 👥 Meeskonnatöö
+
+📊 **Meeskonna esitlusslaid:**  
+*https://docs.google.com/presentation/d/17RQHX6iQBZbFvak3viMvOZqHIvKsT4_gAVHKQhqA32U/edit?usp=sharing*
+
+---
