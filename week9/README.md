@@ -10,8 +10,8 @@
 - Panus: [1-2 lauset oma panuse kohta]
 
 ### AI kasutamine
-[1-2 lauset, kuidas AI aitas sel nädalal]
-ChatGPT aitas teha vajalikud koodid, vajadusel leida erroritele põhjuseid ning teha kokkuvõtted
+Kasutasin tehisintellekti, et koostada personalijuhi vaatenurgast struktureeritud tagasiside ning sõnastada hinnang professionaalses vormis.
+
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/1kJtM9jM5cdKQg91xikcIb1fakwzNAihSeg23QVzBWsg/edit?slide=id.g3ef495ecc6a_0_548#slide=id.g3ef495ecc6a_0_548
+- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/17RQHX6iQBZbFvak3viMvOZqHIvKsT4_gAVHKQhqA32U/edit?usp=sharing
