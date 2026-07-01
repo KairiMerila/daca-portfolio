@@ -7,7 +7,7 @@
     
 ### **Roll C - Personalijuhi vaade (People Manager) 
 
-- Panus: [1-2 lauset oma panuse kohta]
+- Panus: Hindasin meeskonnakaaslase GitHubi portfooliot tehnilisest ja personalijuhi vaatenurgast ning koostasin konstruktiivse tagasiside koos värbamissoovitusega.
 
 ### AI kasutamine
 Kasutasin tehisintellekti, et koostada personalijuhi vaatenurgast struktureeritud tagasiside ning sõnastada hinnang professionaalses vormis.
