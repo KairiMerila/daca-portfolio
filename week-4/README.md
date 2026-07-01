@@ -1,21 +1,82 @@
-# Nädal 4: SQL Aggregation -- UrbanStyle'i andmete uurimine
+## 📌 Nädal 4: SQL Aggregation – UrbanStyle'i andmete analüüs
 
-## Mida ma tegin
-ALAÜLESANDE KAART A ja C
+---
 
-## Peamised õpid
+### 👤 Minu roll
+
+**Roll A + C – Müügi- ja kliendiandmete analüüs SQL-is**
+
+---
+
+### 📊 Projekti eesmärk
+
+Analüüsida UrbanStyle'i müügi- ja kliendiandmeid SQL agregatsioonifunktsioonide abil ning teha juhtkonnale andmepõhiseid järeldusi.
+
+---
+
+### ✅ Minu panus
+
+- Kirjutasin SQL päringud müügi- ja kliendiandmete analüüsimiseks
+- Kasutasin agregatsioonifunktsioone (`SUM`, `COUNT`, `AVG`, `GROUP BY`)
+- Analüüsisin müügitrende kuude lõikes
+- Koostasin peamised järeldused ja ärilised soovitused
+
+---
+
+### 🔍 Peamised leiud
+
+- 📈 **2024. aasta müügitrend oli üldiselt kasvav**, kuigi mõnes kuus esines väiksemaid langusi.
+- 🎄 **Detsember oli aasta edukaim kuu**, mis viitab tugevale hooajalisele nõudlusele ja edukatele kampaaniatele.
+- 📉 **Jaanuaris oli müük madalaim**, mistõttu tasub selle perioodi tulemusi täiendavalt analüüsida.
+
+---
+
+### 💼 Äriline soovitus
+
+- Analüüsida, millised kampaaniad või tootekategooriad tõid edu detsembris, ning rakendada sarnaseid strateegiaid ka teistel perioodidel.
+- Uurida madalama müügiga kuude põhjuseid ja planeerida tegevusi hooajaliste kõikumiste vähendamiseks.
+
+---
+
+### 🛠 Kasutatud tehnoloogiad
+
+- PostgreSQL
+- SQL agregatsioonifunktsioonid
+- `GROUP BY`
+- `ORDER BY`
+- Andmete analüüs
+
+---
+
+### 🤖 AI kasutamine
+
+Kasutasin ChatGPT-d, et:
+
+- kontrollida SQL päringute loogikat;
+- aidata leida vigade põhjuseid;
+- sõnastada ärilised järeldused ja soovitused.
+
+---
+
+### 🛠 Omandatud oskused
+
 - SQL agregatsioonid
+- Andmete grupeerimine
+- Müügianalüüs
+- Äriliste järelduste tegemine
+- SQL päringute optimeerimine
 
-Peamised leiud
-- Aasta 2024 müügitrend näitab üldiselt stabiilset kasvu, kuigi mõnes kuus esines väiksemaid langusi võrreldes eelmise perioodiga.
-- Kõige tugevam kuu oli detsember, kus käive saavutas aasta kõrgeima taseme, mis viitab edukatele kampaaniatele või hooajalisele nõudlusele.
-- Kõige kehvem kuu oli jaanuar.
+---
 
-Soovitus Kristile
-- Kristi võiks juhatusele öelda, et ettevõtte müük liigub tervikuna positiivses suunas, kuid tähelepanu tuleks pmuti tasub analüüsida, möörata kuudele, kus käive väheneb. Sellised tegevused või tootekategooriad tõid edu parimatel kuudel, et samu strateegiaid tulevikus korrata.
+### 📁 Failid
 
-## Failid
-- `week4_roll_a_c_müük_kliendid.sql` -- minu SQL päringud
+- `week4_roll_a_c_müük_kliendid.sql` – SQL päringud müügi- ja kliendiandmete analüüsimiseks
 
-## Meeskonna töö
-- Link meeskonna slaidile - https://docs.google.com/presentation/d/1cFoeW5i1hSBeOK26qFkYzEMcqnNt3PfFbszMdjDYEzw/edit
+---
+
+## 👥 Meeskonnatöö
+
+📊 **Meeskonna esitlusslaid:**  
+https://docs.google.com/presentation/d/1cFoeW5i1hSBeOK26qFkYzEMcqnNt3PfFbszMdjDYEzw/edit
+
+---
