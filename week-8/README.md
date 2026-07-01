@@ -1,7 +1,7 @@
 ## Nädal 8: Python APIs
 
 ### Minu roll
-[Roll A+B]: [API Query + Data Processing]
+Roll A+B: API Query + Data Processing
 
 ### **Roll A - API Query** (Andmete pärimine)  
 **ÜLESANNE**: Loo Python funktsioonid, mis pärivad UrbanStyle OÜ andmed
@@ -36,8 +36,7 @@ Marko tahab nähtavaid numbreid — mitte toorandmeid.
   - 🛒 Keskmine tellimuse väärtus: 150 €
 
 ### AI kasutamine
-[1-2 lauset, kuidas AI aitas sel nädalal]
 ChatGPT aitas teha vajalikud koodid, vajadusel leida erroritele põhjuseid ning teha kokkuvõtted
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile] https://docs.google.com/presentation/d/1kJtM9jM5cdKQg91xikcIb1fakwzNAihSeg23QVzBWsg/edit?slide=id.g3ef495ecc6a_0_548#slide=id.g3ef495ecc6a_0_548
+- Link meeskonna slaidile - https://docs.google.com/presentation/d/1kJtM9jM5cdKQg91xikcIb1fakwzNAihSeg23QVzBWsg/edit?slide=id.g3ef495ecc6a_0_548#slide=id.g3ef495ecc6a_0_548
