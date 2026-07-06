@@ -72,9 +72,8 @@ Kasutasin ChatGPT-d, et:
 
 ### 📁 Failid
 
-- `week1_Kliendiandmed_exploration.sql` – SQL päringud
-- [`week1_kliendiandmed_explorations.sql`](week1_kliendiandmed_explorations.sql)
-- `week1_results_screenshot.png` – päringute tulemused
+- [`SQL päringud`](week1_kliendiandmed_explorations.sql)
+- [`päringute tulemused`](week1_results_screenshot.png) 
 
 ---
 
