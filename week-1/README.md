@@ -80,6 +80,6 @@ Kasutasin ChatGPT-d, et:
 
 ## 👥 Meeskonnatöö
 
-📊 **Meeskonna töö dokument:** [`esitlus`](https://docs.google.com/document/d/1iUIhHFb633tp-EM_9FFwXHfRahRdlWpFiM4qXpgY6Do/edit?tab=t.0) 
+📊 **Meeskonna töö:** [`dokument`](https://docs.google.com/document/d/1iUIhHFb633tp-EM_9FFwXHfRahRdlWpFiM4qXpgY6Do/edit?tab=t.0) 
 
 ---
