@@ -50,10 +50,14 @@ Kasutasin tehisintellekti, et:
 
 ---
 
+### 📁 Failid
+
+- [`VÄRBAMISJUHENDI PEATÜKK: DA tööpakkumise kirjutamine`](https://docs.google.com/document/d/1LzQ5sULZ7UdnwyGl-lzK04K1MQFkSfE6rzW1BGU5VuY/edit?tab=t.0#heading=h.afjir6wujsgq) 
+
+---
+
 ## 👥 Meeskonnatöö
 
 📊 **Meeskonna töö:** [`esitlus`](https://docs.google.com/presentation/d/17RQHX6iQBZbFvak3viMvOZqHIvKsT4_gAVHKQhqA32U/edit?usp=sharing)
-
-[`VÄRBAMISJUHENDI PEATÜKK: DA tööpakkumise kirjutamine`](https://docs.google.com/document/d/1LzQ5sULZ7UdnwyGl-lzK04K1MQFkSfE6rzW1BGU5VuY/edit?tab=t.0#heading=h.afjir6wujsgq) 
 
 ---
