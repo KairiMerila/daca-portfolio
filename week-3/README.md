@@ -72,7 +72,9 @@ Kasutasin ChatGPT-d, et:
 ### 📁 Failid
 
 - [`SQL päring kadunud klientide analüüsimiseks`](week3_roll_b_kadunud_kliendid.sql)
-- [`SQL kadunud klineid pilt`](week3_roll_b_kadunud_kliendid.png)
+- [`kadunud kliendid pilt`](week3_roll_b_kadunud_kliendid.png)
+- [`kadunud klintide raport`](W3_roll_B_ Kliendid_ilma_ostudeta_raport.csv)
+
 
 ---
 
