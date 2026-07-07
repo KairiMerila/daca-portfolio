@@ -71,7 +71,7 @@ Kasutasin ChatGPT-d, et:
 
 ### 📁 Failid
 
-- `week2_myygi-ja_tooteandmed_exploration.sql` – SQL päringud andmete kvaliteedi analüüsimiseks
+- [`SQL päringud andmete kvaliteedi analüüsimiseks`](week2_myygi-ja_tooteandmed_exploration.sql)
 
 ---
 
