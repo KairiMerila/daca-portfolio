@@ -1,19 +1,29 @@
-# DACA Portfoolio
+# 📌 DACA Portfoolio
 
-**Programm:** Data Analyst Career Accelerator (DACA)  
-**Osaleja:** Kairi Merila  
-**Algus:** 29.04.2026  
-**Lõpp:** 10.07.2026
+---
 
-## Minust
+### 👤 Osaleja andmed
+
+- **Programm:** Data Analyst Career Accelerator (DACA)  
+- **Osaleja:** Kairi Merila  
+- **Algus:** 29.04.2026  
+- **Lõpp:** 10.07.2026  
+
+---
+
+### 📝 Minust
+
 Liitusin DACA programmiga, sest mulle meeldivad väga uued programmid ja numbrid, seega on mu soov töötada andmeanalüütikuna. Seoses koondamisega on hea see tarkuste kogumine tänuväärselt läbi Töötukassa ette võtta.
 
-## Eesmärk
+---
+
+### 📊 Eesmärk
+
 Õppida põhjalikult andmeanalüüsi – SQL-i, Pythonit ja andmete visualiseerimist – ning ehitada selle käigus professionaalne ja tugev portfoolio.
 
 ---
 
-## Õpiteekond ja progress
+### 📈 Õpiteekond ja progress
 
 | Nädal | Teema | Staatus |
 |-------|-------|---------|
@@ -28,36 +38,36 @@ Liitusin DACA programmiga, sest mulle meeldivad väga uued programmid ja numbrid
 
 ---
 
-## Projektid ja kodutööd
+### ✅ Projektid ja kodutööd
 
-### Week 0: Onboarding
+#### 🔹 Week 0: Onboarding
 - GitHubi seadistamine ja repositooriumi loomine ✅
 - Supabase'i andmebaasi keskkonna seadistamine ✅
 
-### Week 1: SQL Põhitõed (SQL Basics)
+#### 🔹 Week 1: SQL Põhitõed (SQL Basics)
 - SQL põhipäringute harjutused ja andmete filtreerimine ✅
 
-### Week 2: SQL Andmete Puhastamine (SQL Cleaning)
+#### 🔹 Week 2: SQL Andmete Puhastamine (SQL Cleaning)
 - Andmetüüpide korrastamine, puuduvate väärtuste (NULL) haldamine ja duplikaatide eemaldamine ✅
 
-### Week 3: SQL JOINs
+#### 🔹 Week 3: SQL JOINs
 - Erinevate tabelite sidumine (INNER, LEFT, RIGHT, FULL JOIN) keerukamate seoste leidmiseks ✅
 
-### Week 4: SQL Aggregation
+#### 🔹 Week 4: SQL Aggregation
 - Andmete grupeerimine ja kokkuvõtete tegemine (GROUP BY, HAVING, COUNT, SUM, AVG) ✅
 
-### Week 5-6: Visualiseerimine
+#### 🔹 Week 5-6: Visualiseerimine
 - Interaktiivsete andmelandude (dashboards) ja raportite loomine kasutades Power BI'd ✅
 
-### Week 7-8: Python
+#### 🔹 Week 7-8: Python
 - Andmetöötlus, analüüs ja visualiseerimine Pythoni teekidega (pandas) ✅
 
-### Week 9-10: Portfoolio + Karjäär
+#### 🔹 Week 9-10: Portfoolio + Karjäär
 - Lõpliku andmeanalüütiku portfoolio vormistamine ja ettevalmistus karjääri alustamiseks ✅
 
 ---
 
-## Oskused ja tööriistad
+### 🛠 Kasutatud tehnoloogiad
 
 - **SQL & Andmebaasid:** PostgreSQL, Supabase
 - **Python:** pandas, plotly
@@ -66,8 +76,10 @@ Liitusin DACA programmiga, sest mulle meeldivad väga uued programmid ja numbrid
 
 ---
 
-## Kontakt
+### 📁 Kontakt
 
-- **GitHub:** [github.com/KairiMerila](https://github.com/KairiMerila)
-- **Linkedin:** [linkedin.com/in/kmerila](www.linkedin.com/in/kmerila)
-- **E-mail:** kairimerila@gmail.com
+- 🌐 **GitHub:** [github.com/KairiMerila](https://github.com/KairiMerila)
+- 💼 **LinkedIn:** [linkedin.com/in/kmerila](https://www.linkedin.com/in/kmerila)
+- 📧 **E-mail:** kairimerila@gmail.com
+
+---
