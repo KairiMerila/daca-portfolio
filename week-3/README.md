@@ -71,13 +71,12 @@ Kasutasin ChatGPT-d, et:
 
 ### 📁 Failid
 
-- `week-3/week3_roll_b_kadunud_kliendid.sql` – SQL päring kadunud klientide analüüsimiseks
+- [`SQL päring kadunud klientide analüüsimiseks`](week-3/week3_roll_b_kadunud_kliendid.sql )
 
 ---
 
 ## 👥 Meeskonnatöö
 
-📊 **Meeskonna esitlusslaid:**  
-https://docs.google.com/presentation/d/1oSZyKl0YB271pfwPAe21IILeEIEnSs-osVSvAM5A2L0/edit?slide=id.g3e1805e3309_1_5#slide=id.g3e1805e3309_1_5
+📊 **Meeskonna töö:** [`dokument`](https://docs.google.com/presentation/d/1oSZyKl0YB271pfwPAe21IILeEIEnSs-osVSvAM5A2L0/edit?slide=id.g3e1805e3309_1_5#slide=id.g3e1805e3309_1_5)
 
 ---
