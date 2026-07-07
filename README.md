@@ -1,8 +1,9 @@
 # DACA Portfoolio
 
-**Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** Kairi Merila
-**Algus:** 29.04.2026
+**Programm:** Data Analyst Career Accelerator (DACA)  
+**Osaleja:** Kairi Merila  
+**Algus:** 29.04.2026  
+**Lõpp:** 10.07.2026
 
 ## Minust
 Liitusin DACA programmiga, sest mulle meeldivad väga uued programmid ja numbrid, seega on mu soov töötada andmeanalüütikuna. Seoses koondamisega on hea see tarkuste kogumine tänuväärselt läbi Töötukassa ette võtta.
