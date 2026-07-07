@@ -1,52 +1,72 @@
 # DACA Portfoolio
- 
+
 **Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** [Kairi Merila]
-**Algus:** [29.04.2026]
- 
-## Kirjeldus
- 
-See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
- 
-## Projektid
- 
-### Week 0: Onboarding
-- GitHub seadistamine ✅
-- Supabase seadistamine ✅
- 
-### Week 1: SQL Põhitõed
-- (tulemas...)
- 
-### Week 2: SQL Andmete Puhastamine
-- (tulemas...)
- 
-## Oskused
- 
-- **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
-- **Tööriistad:** Git, GitHub, VS Code
- 
-## Kontaktc
-- **GitHub:** [github.com/KairiMerila](https://github.com/sinu-username)
-- **Email:** kairimerila@gmail.com
- 
-# DACA Portfoolio -- [Kairi Merila]
+**Osaleja:** Kairi Merila
+**Algus:** 29.04.2026
 
 ## Minust
-Liitusin DACA programmiga, sest mulle meeldivad väga uued programmid ja numbrid, seega soov on töötada andmeanalüütikuna. Seoses koondamisega on hea see tarkuste kogumine tänu läbi Töötukassa ette võtta.
+Liitusin DACA programmiga, sest mulle meeldivad väga uued programmid ja numbrid, seega on mu soov töötada andmeanalüütikuna. Seoses koondamisega on hea see tarkuste kogumine tänuväärselt läbi Töötukassa ette võtta.
 
 ## Eesmärk
-Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
+Õppida põhjalikult andmeanalüüsi – SQL-i, Pythonit ja andmete visualiseerimist – ning ehitada selle käigus professionaalne ja tugev portfoolio.
 
-## Nädala kaupa
+---
+
+## Õpiteekond ja progress
+
 | Nädal | Teema | Staatus |
 |-------|-------|---------|
-| 0 | Onboarding | Tehtud |
-| 1 | SQL Basics | Tehtud |
-| 2 | SQL Cleaning | Tehtud |
-| 3 | SQL JOINs | Tehtud |
-| 4 | SQL Aggregation | Tehtud |
-| 5-6 | Visualiseerimine | Tulemas |
-| 7-8 | Python | Tulemas |
-| 9-10 | Portfoolio + Karjäär | Tulemas |
+| 0 | Onboarding | Tehtud ✅ |
+| 1 | SQL Basics | Tehtud ✅ |
+| 2 | SQL Cleaning | Tehtud ✅ |
+| 3 | SQL JOINs | Tehtud ✅ |
+| 4 | SQL Aggregation | Tehtud ✅ |
+| 5-6 | Visualiseerimine | Tehtud ✅ |
+| 7-8 | Python | Tehtud ✅ |
+| 9-10 | Portfoolio + Karjäär | Tehtud ✅ |
+
+---
+
+## Projektid ja kodutööd
+
+### Week 0: Onboarding
+- GitHubi seadistamine ja repositooriumi loomine ✅
+- Supabase'i andmebaasi keskkonna seadistamine ✅
+
+### Week 1: SQL Põhitõed (SQL Basics)
+- SQL põhipäringute harjutused ja andmete filtreerimine ✅
+
+### Week 2: SQL Andmete Puhastamine (SQL Cleaning)
+- Andmetüüpide korrastamine, puuduvate väärtuste (NULL) haldamine ja duplikaatide eemaldamine ✅
+
+### Week 3: SQL JOINs
+- Erinevate tabelite sidumine (INNER, LEFT, RIGHT, FULL JOIN) keerukamate seoste leidmiseks ✅
+
+### Week 4: SQL Aggregation
+- Andmete grupeerimine ja kokkuvõtete tegemine (GROUP BY, HAVING, COUNT, SUM, AVG) ✅
+
+### Week 5-6: Visualiseerimine
+- Interaktiivsete andmelandude (dashboards) ja raportite loomine kasutades Power BI ja Streamlit tööriistu ✅
+
+### Week 7-8: Python
+- Andmetöötlus, analüüs ja visualiseerimine Pythoni teekidega (pandas, plotly) ✅
+
+### Week 9-10: Portfoolio + Karjäär
+- Lõpliku andmeanalüütiku portfoolio vormistamine ja ettevalmistus karjääri alustamiseks ✅
+
+---
+
+## Oskused ja tööriistad
+
+- **SQL & Andmebaasid:** PostgreSQL, Supabase
+- **Python:** pandas, plotly
+- **Visualiseerimine:** Power BI
+- **Tööriistad:** Git, GitHub, VS Code
+
+---
+
+## Kontakt
+
+- **GitHub:** [github.com/KairiMerila](https://github.com/KairiMerila)
+- **Linkedin:** [linkedin.com/in/kmerila](www.linkedin.com/in/kmerila)
+- **E-mail:** kairimerila@gmail.com
