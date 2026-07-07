@@ -46,10 +46,10 @@ Liitusin DACA programmiga, sest mulle meeldivad väga uued programmid ja numbrid
 - Andmete grupeerimine ja kokkuvõtete tegemine (GROUP BY, HAVING, COUNT, SUM, AVG) ✅
 
 ### Week 5-6: Visualiseerimine
-- Interaktiivsete andmelandude (dashboards) ja raportite loomine kasutades Power BI ja Streamlit tööriistu ✅
+- Interaktiivsete andmelandude (dashboards) ja raportite loomine kasutades Power BI'd ✅
 
 ### Week 7-8: Python
-- Andmetöötlus, analüüs ja visualiseerimine Pythoni teekidega (pandas, plotly) ✅
+- Andmetöötlus, analüüs ja visualiseerimine Pythoni teekidega (pandas) ✅
 
 ### Week 9-10: Portfoolio + Karjäär
 - Lõpliku andmeanalüütiku portfoolio vormistamine ja ettevalmistus karjääri alustamiseks ✅
