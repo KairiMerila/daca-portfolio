@@ -77,7 +77,8 @@ Kasutasin ChatGPT-d, et:
 
 ## 👥 Meeskonnatöö
 
-📊 **Meeskonna esitlusslaid:**  
-https://docs.google.com/presentation/d/1aXbHz_prwYMUp1iP37YYKQh6YgeExWUGKPCPc3-hlUU/edit?slide=id.g3e1805e3309_1_0#slide=id.g3e1805e3309_1_0
+📊 **Meeskonna töö:** [`dokument`](https://docs.google.com/presentation/d/1aXbHz_prwYMUp1iP37YYKQh6YgeExWUGKPCPc3-hlUU/edit?slide=id.g3e1805e3309_1_0#slide=id.g3e1805e3309_1_0)
+
+
 
 ---
