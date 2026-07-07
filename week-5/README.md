@@ -73,7 +73,7 @@ Kasutasin ChatGPT-d, et:
 
 ### 📁 Failid
 
-- [`KPI Dashboard`](urbanstyle_week5_dashboard_KairiMerila.pbix)
+- [`KPI Dashboard`](week5_PowerBI_Daschboard.jpg)
 
 ---
 
