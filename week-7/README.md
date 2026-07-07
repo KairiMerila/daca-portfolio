@@ -71,7 +71,7 @@ Kasutasin ChatGPT-d, et:
 
 ### 📁 Failid
 
-- [`Python Pandas`](week7_roll_abcd)
+- [`Python Pandas`](week7_roll_abcd.jpg)
 
 ---
 
