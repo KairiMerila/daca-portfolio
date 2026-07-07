@@ -70,7 +70,7 @@ Kasutasin ChatGPT-d, et:
 
 ### 📁 Failid
 
-- [`SQL päringud müügi- ja kliendiandmete analüüsimiseks`](week4_roll_a_c_müük_kliendid.sq)
+- [`SQL päringud müügi- ja kliendiandmete analüüsimiseks`](week4_roll_a_c_müük_kliendid.sql)
 
 ---
 
