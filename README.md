@@ -13,7 +13,7 @@
 
 ### 📝 Minust
 
-Liitusin DACA programmiga, sest mulle meeldivad väga uued programmid ja numbrid, seega on mu soov töötada andmeanalüütikuna. Seoses koondamisega on hea see tarkuste kogumine tänuväärselt läbi Töötukassa ette võtta.
+Liitusin DACA programmiga sügavama huvi tõttu andmete, numbrite ja tehnoloogiliste lahenduste vastu. Minu eesmärk on rakendada oma senist elukogemust ja analüütilist mõtlemist, et luua väärtust andmeanalüütikuna. Nägin hiljutises koondamises võimalust teha teadlik karjääripööre, ning tänu Töötukassa toele pühendun täielikult uute, kaasaegsete oskuste omandamisele ja praktilisele enesetäiendamisele.
 
 ---
 
