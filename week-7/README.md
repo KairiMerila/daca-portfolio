@@ -69,9 +69,14 @@ Kasutasin ChatGPT-d, et:
 
 ---
 
+### 📁 Failid
+
+- [`Python Pandas`](week7_roll_abcd)
+
+---
+
 ## 👥 Meeskonnatöö
 
-📊 **Meeskonna esitlusslaid:**  
-https://docs.google.com/presentation/d/14yUo9fP38sgrFW8HtT6MgmD8u_6QZwbUqgs9Tzrsc7s/edit?slide=id.g3ede0e925b1_0_316#slide=id.g3ede0e925b1_0_316
+📊 **Meeskonna töö:** [`dokument`](https://docs.google.com/presentation/d/14yUo9fP38sgrFW8HtT6MgmD8u_6QZwbUqgs9Tzrsc7s/edit?slide=id.g3ede0e925b1_0_316#slide=id.g3ede0e925b1_0_316) 
 
 ---
