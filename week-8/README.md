@@ -80,9 +80,16 @@ Kasutasin ChatGPT-d, et:
 
 ---
 
+### 📁 Failid
+
+- [`data fetcher`](data_fetcher.py)
+- [`pipeline`](pipeline.py)
+- [`transform`](transform.py)
+
+---
+
 ## 👥 Meeskonnatöö
 
-📊 **Meeskonna esitlusslaid:**  
-https://docs.google.com/presentation/d/1kJtM9jM5cdKQg91xikcIb1fakwzNAihSeg23QVzBWsg/edit?slide=id.g3ef495ecc6a_0_548#slide=id.g3ef495ecc6a_0_548
+📊 **Meeskonna töö:** [`dokument`](https://docs.google.com/presentation/d/1kJtM9jM5cdKQg91xikcIb1fakwzNAihSeg23QVzBWsg/edit?slide=id.g3ef495ecc6a_0_548#slide=id.g3ef495ecc6a_0_548)
 
 ---
