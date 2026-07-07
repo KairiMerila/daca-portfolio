@@ -70,13 +70,12 @@ Kasutasin ChatGPT-d, et:
 
 ### 📁 Failid
 
-- `week4_roll_a_c_müük_kliendid.sql` – SQL päringud müügi- ja kliendiandmete analüüsimiseks
+- [`SQL päringud müügi- ja kliendiandmete analüüsimiseks`](week4_roll_a_c_müük_kliendid.sq)
 
 ---
 
 ## 👥 Meeskonnatöö
 
-📊 **Meeskonna esitlusslaid:**  
-https://docs.google.com/presentation/d/1cFoeW5i1hSBeOK26qFkYzEMcqnNt3PfFbszMdjDYEzw/edit
+📊 **Meeskonna töö:** [`dokument`](https://docs.google.com/presentation/d/1cFoeW5i1hSBeOK26qFkYzEMcqnNt3PfFbszMdjDYEzw/edit)
 
 ---
