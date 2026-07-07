@@ -66,13 +66,13 @@ Kasutasin ChatGPT-d, et:
 
 ### 📁 Failid
 
-- `urbanstyle_week6_dashboard_KairiMerila.pbix` – UrbanStyle Power BI Dashboard
+- [`UrbanStyle Power BI Dashboard`](KPI_Dashboard.jpg)
 
 ---
 
 ## 👥 Meeskonnatöö
 
-📊 **Meeskonna esitlusslaid:**  
-https://docs.google.com/presentation/d/1z4LPNL1jmZUq7Cw4m29Y-bjUWCAC24PDErt_MBjGw-E/edit?usp=sharing
+📊 **Meeskonna töö:** [`dokument`](https://docs.google.com/presentation/d/1z4LPNL1jmZUq7Cw4m29Y-bjUWCAC24PDErt_MBjGw-E/edit?usp=sharing)
+
 
 ---
