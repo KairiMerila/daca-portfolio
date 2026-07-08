@@ -71,9 +71,9 @@ Kasutasin ChatGPT-d, et:
 
 ---
 
-### 📁 Failid
+### 📁 Projektivisuaal
 
-- [`KPI Dashboard`](week5_PowerBI_Daschboard.jpg)
+![`KPI Dashboard`](week5_PowerBI_Daschboard.jpg)
 
 ---
 
