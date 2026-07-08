@@ -64,9 +64,9 @@ Kasutasin ChatGPT-d, et:
 
 ---
 
-### 📁 Failid
+### 📁 Projektivisuaal
 
-- [`UrbanStyle Power BI Dashboard`](KPI_Dashboard.jpg)
+![`UrbanStyle Power BI Dashboard`](KPI_Dashboard.jpg)
 
 ---
 
